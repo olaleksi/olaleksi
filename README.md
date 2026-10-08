@@ -158,12 +158,6 @@ If you're building something interesting, need help with a web application, or w
 
 🌐 **Portfolio:** (https://olaleksi-dev.vercel.app/)
 
-💼 **LinkedIn:** [Connect with me]((https://www.linkedin.com/in/olalekan-olajide-9495b5278/))
-
-🔨 **Upwork:** [Hire me on Upwork]
-
-📂 **GitHub:** [Explore my repositories](https://github.com/olaleksi)
-
 ---
 
 ### 💡 Build. Test. Improve.
